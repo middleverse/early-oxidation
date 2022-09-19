@@ -1,4 +1,4 @@
 # new-rustecean
-Projects while completing the rust-lang docs.
+Projects while completing [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) by Steve Klabnik and Carol Nichols.
 
-[The Rust Programming Language](https://doc.rust-lang.org/stable/book/) by Steve Klabnik and Carol Nichols, with contributions from the Rust Community.
+
